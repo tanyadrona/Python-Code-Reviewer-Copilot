@@ -30,6 +30,10 @@ How It Works
 ~ Applies predefined rules (like linting, naming, etc.)
 ~ Outputs suggestions and improvements
 
+Architecture
+
+![Architecture Diagram](Flow.png)
+
 Use Cases
 1. Learning Python best practices
 2. Practicing code review concepts
